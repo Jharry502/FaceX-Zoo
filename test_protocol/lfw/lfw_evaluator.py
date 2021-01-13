@@ -7,7 +7,7 @@
 import os
 import sys
 import numpy as np
-    
+
 class LFWEvaluator(object):
     """Implimentation of LFW test protocal.
     
